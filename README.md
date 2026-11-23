@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Ketan Tanwar 👋
 
-<!--
-**Ketan-Tanwar/Ketan-Tanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Business Analyst
 
-Here are some ideas to get you started:
+I'm passionate about Business Analytics, Data Analytics, Statistics and Business Intelligence. I enjoy transforming raw data into meaningful insights and using analytical thinking to support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+### 1. Programming & Data Analysis
+- SQL
+- Microsoft Excel
+- DBMS
+
+### 2. Business Intelligence & Visualization
+- Power BI
+- Looker Studio
+- Interactive Dashboards
+- Data Visualization
+
+### 3. Analytics & Statistics
+- Business Analytics
+- Descriptive Statistics
+- Data Interpretation
+- Data Cleaning
+- Data-Driven Decision Making
+
+### 4. Generative AI
+- Prompt Engineering
+- Large-Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and AI Applications
+
+## Areas of Knowledge
+- Advanced Excel and Data Analysis
+- SQL and Relational Databases
+- Statistics and Probability
+- Power BI and DAX
+- Business Intelligence
+- Generative AI Fundamentals
+
+## Education & Certifications
+- Bachelor of Business Administration (BBA)
+- NISM Series V-A - Mutual Fund Distributor
+
+
+
+
+
